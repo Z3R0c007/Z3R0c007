@@ -45,17 +45,18 @@ tooling built to run unattended.
 
 ## Selected work
 
-- **One-click owner record search & targeted outreach** — pulls public ownership
-  records for a property and drives a direct contact campaign from a single action
-- **Lead ingestion automation** — inbound email → parsed lead → CRM record, with
-  no manual entry
-- **Market reporting pipeline** — raw public data → branded, client-ready report
-- **Listing activity tracking** — scheduled runs that compile team metrics and
-  publish them automatically
+- **Off-market owner outreach** — identifies and reaches property owners directly,
+  from a single action
+- **Zero-touch lead intake** — new business arrives already organized and routed,
+  with no manual entry
+- **Automated market reporting** — client-ready market reports produced and
+  published on a schedule
+- **Live activity tracking** — team performance compiled and published
+  automatically, no one logging into anything
 - **Agentic AI & fine-tuning** — applied across business operations *and* personal
   life: research, drafting, monitoring, and the unglamorous coordination work
-- **Browser & desktop automation** — driving a real environment to do work that has
-  no API
+- **Browser & desktop automation** — doing real work in environments that have no
+  API to call
 
 Most of it is private, because it runs real businesses with real client data.
 That's the deal: the systems compound quietly, and the graph is the receipt.
